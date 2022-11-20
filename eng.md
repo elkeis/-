@@ -2,8 +2,7 @@
 ![img](./image/100x100.jpg) Kiryl Petrovich Ermakov ( Senior Software Developer )
 
 ## Techology Stack
-Java, Javascript, HTML, CSS;
-
+Java, Javascript, HTML, CSS.
 > Typescript, React, Node.js, Sass, Less, Redux, ReactQuery, Electron, MySQL, Postgress, OracleDB, Hibernate, Spring, Git.
 
 ##  Experience
